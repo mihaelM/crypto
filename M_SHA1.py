@@ -1,4 +1,5 @@
 import hashlib
+import bitarray
 
 class M_SHA1:
     def __init__(self):
