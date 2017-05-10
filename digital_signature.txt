@@ -1,0 +1,21 @@
+---BEGIN OS2 CRYPTO DATA---
+Description: 
+    Signature
+
+File name:
+    digital_signature.txt
+
+Method:
+    SHA-1
+    RSA
+
+Key length:
+    A0
+    0400
+
+Signature data:
+    Ova poruka je mnogo tajna.
+    Tko presretne ovu poruku
+    taj ce biti jako sretan.
+
+---END OS2 CRYPTO DATA---

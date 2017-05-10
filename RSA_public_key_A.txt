@@ -1,0 +1,19 @@
+---BEGIN OS2 CRYPTO DATA---
+Description: 
+    Public key
+
+Method:
+    RSA
+
+Key:
+    -----BEGIN PUBLIC KEY-----
+    MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhIwnjzULS00l8gxTV4tp
+    N99WA/2RJzjJxu8FK+ejdN04yOOe16pJluq5Jb6SikJjc6+ZpYEq9qP8ysxOqpcj
+    sayAFTbBoFXo2I2OEtEJakggyq1cVas+f3sU+0CeBJoRq2jAMYzfIVvsJW6hpRjH
+    a1cx51ahMoSA1XALx5FrV8+Ox1EBKI4a9LxAgVlyKAMMhdIvtG7ocn32iOUou/Ek
+    lNvwH0kn7zgaI7b55X5CIv4OvI0Yh1xIW6TWm//At0B3OQiRRXWUMPia4c1/ijFK
+    UcDE4WOj4oX1hHsA2oeqJkMGRcbpKbvKmPdJxfzpeZtjAZTcCHyjGUyGsFKh7Kb9
+    3QIDAQAB
+    -----END PUBLIC KEY-----
+
+---END OS2 CRYPTO DATA---

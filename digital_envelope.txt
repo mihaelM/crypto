@@ -1,0 +1,24 @@
+---BEGIN OS2 CRYPTO DATA---
+Description: 
+    Envelope
+
+File name:
+    digital_envelope.txt
+
+Method:
+    DES
+    RSA
+
+Key length:
+    0100
+    0400
+
+Envelope data:
+    Ova poruka je mnogo tajna.
+    Tko presretne ovu poruku
+    taj ce biti jako sretan.
+
+Envelope crypt key:
+    535646bd
+
+---END OS2 CRYPTO DATA---
