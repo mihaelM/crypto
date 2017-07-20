@@ -9,6 +9,7 @@ def bin2hex(binStr):
 def hex2bin(hexStr):
     return binascii.unhexlify(hexStr)
 
+#added ad-hoc comment
 
 key = RSA.generate(2048)
 
